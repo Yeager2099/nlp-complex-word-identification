@@ -46,8 +46,8 @@ Keep assignment solution code and course materials private pending the relevant 
 
 | Original filename | Repository file |
 |---|---|
-| `hw01_complete.py` | [`src/hw01_complete.py`](<hw01_complete.py>) |
-| `hw01_notebook.ipynb` | [`src/hw01_notebook.ipynb`](<hw01_notebook.ipynb>) |
-| `HW1_Report_Final.pdf` | [`docs/HW1_Report_Final.md`](<HW1_Report_Final.md>) |
+| `hw01_complete.py` | [`hw01_complete.py`](<hw01_complete.py>) |
+| `hw01_notebook.ipynb` | [`hw01_notebook.ipynb`](<hw01_notebook.ipynb>) |
+| `HW1_Report_Final.pdf` | [`HW1_Report_Final.md`](<HW1_Report_Final.md>) |
 
 Notebook outputs are intentionally cleared. No credentials, datasets, model checkpoints, course syllabi, or exam papers are included. Dependencies and execution instructions remain to be verified against the final submitted versions.
